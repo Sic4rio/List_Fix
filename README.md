@@ -1,5 +1,8 @@
 # List Optimizer
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
 List Fix is a Python script that allows you to optimize a list of URLs or domains by stripping or adding the 'http://' and 'https://' prefixes.
 
 ## Features
